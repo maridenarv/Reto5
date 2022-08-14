@@ -1,0 +1,15 @@
+Modelo\Proyecto.class
+Vista\frmPrimerInforme.class
+Modelo\Lider.class
+Vista\frmPrincipal.class
+Modelo\SegundaConsulta.class
+Vista\frmPrincipal$1.class
+Vista\frmPrincipal$2.class
+Vista\frmSegundoInforme.class
+Vista\frmTercerInforme.class
+Vista\frmPrincipal$3.class
+Modelo\Cliente.class
+Controlador\ControladorMain.class
+Modelo\PrimerConsulta.class
+Modelo\Conexion.class
+Modelo\TerceraConsulta.class
